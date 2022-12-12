@@ -46,7 +46,7 @@ In order to clone it into your project, you can simply type the following comman
 
 ### Postgres DB Setup
 
-In this project we will be using a Postgres Database. For convenience, we have created a database and provided the url. If you create your own database, you can run the following SQL for creating the tables required for this project.
+In this project we will be using a Postgres Database. For convenience, Once you create a database in PostgreSQL, you can run the following SQL for creating the tables required for this project. After creating the database and the data tables, put the database url in the .env file.
 
 We need to create a table for the users
 ```
