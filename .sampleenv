@@ -1,0 +1,3 @@
+DATABASE_URL=[database url]
+AUTHSECRET=[secret for JWT]
+EXPIRESSECONDS=3000 
