@@ -1,4 +1,4 @@
-## ToDo Rest API  with Python Flask and PostgreSQL
+## To Do Rest API  with Python Flask and PostgreSQL
 
 ## Introduction
 This project builds a backend for a personal TODO application that requires users to be logged in before they can call the APIs. One user can create multiple todo items and one todo item can only belong to a single user. The data model of a todo item & user is as follows:
